@@ -4,6 +4,10 @@ body {
     font: Comic-Sans;
 }
 
+#card_div {
+    padding 10px;
+}
+
 /* #card_div {
     position: absolute;
     left: 50%;
