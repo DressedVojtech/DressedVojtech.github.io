@@ -161,7 +161,7 @@ var cardArray = [
 "Semrád o Vánocích!",
 "Pepek",
 "Mládeži!"
-]
+];
 
 
 var counter = 0;
