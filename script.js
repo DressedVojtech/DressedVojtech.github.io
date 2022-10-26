@@ -182,7 +182,9 @@ document.getElementById('button').onclick = function() {
     if (random === 0) {
         console.log("hi");
         document.getElementById("cinost").innerHTML = "Pantomima";
+        document.getElementByName("body").style.backgroundColor = "blue";
     } else if (random === 1) {
         document.getElementById("cinost").innerHTML = "Popis";
+        document.getElementByName("body").style.backgroundColor = "red";
     }
 };
